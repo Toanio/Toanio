@@ -1,7 +1,7 @@
-### Привет 👋 меня зовут Тоан
+### Hi 👋 my name is Toan
 
-## Обо мне
-Я увлечен iOS разработкой и стараюсь развиваться в этой профессии. Мои 6 лет опыта в тестировании помогают писать более качественный и надежный код. Здесь собраны мои проекты, которые помогают мне развиваться и пробовать новое.
+## About me
+I am passionate about iOS development and try to develop in this profession. My 6 years of experience in testing helps me write better and more reliable code. Here are my projects that help me develop and try new things.
 
 <!--
 **Toanio/Toanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
